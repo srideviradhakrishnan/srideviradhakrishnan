@@ -32,7 +32,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=srideviradhakrishnan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️  Dev Quote
 ```
 ╔════════════════════════════════════════════════════════════════════╗
 ║ "The best way to predict the future is to automate it."             ║
