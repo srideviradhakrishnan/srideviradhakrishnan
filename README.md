@@ -38,9 +38,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=srideviradhakrishnan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srideviradhakrishnan&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
 
